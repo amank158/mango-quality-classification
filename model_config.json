@@ -1,0 +1,10 @@
+{
+    "model_name": "MobileNetV2",
+    "image_size": 224,
+    "class_names": [
+        "Ripe",
+        "Rotten",
+        "Unripe"
+    ],
+    "preprocessing": "mobilenet_v2"
+}
